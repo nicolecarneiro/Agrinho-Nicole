@@ -15,8 +15,8 @@
     font-weight: 400;
     }
     * {
-    margin: 0;
-    padding: 0;
+    margin: 50;
+    padding: 30;
     }
     .principal {
     background-image: url("img/Background.png");
